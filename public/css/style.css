@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  letter-spacing: 1px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+main {
+  width: 90%;
+  margin: 1rem auto;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table,
+tr,
+td,
+th {
+  border: 1px solid #000;
+}
+
+th,
+td {
+  padding: 1rem;
+}
